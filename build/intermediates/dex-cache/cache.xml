@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/home/popo/AndroidStudioProjects/TbCake/app/build/intermediates/pre-dexed/debug/gson-2.1-936ac6ed860cb3b3f9bb0b7f6c84d76f118f710f.jar"
+        jar="/home/popo/AndroidStudioProjects/TbCake/app/libs/gson-2.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="bd858833cacb4e6742f7698649fb874a360e230f"/>
+    <item
+        dex="/home/popo/AndroidStudioProjects/TbCake/app/build/intermediates/pre-dexed/debug/androidannotations-api-3.0.1-102d7dfd4b1096305fbff1732f021f915a92b829.jar"
+        jar="/home/popo/.gradle/caches/modules-2/files-2.1/org.androidannotations/androidannotations-api/3.0.1/beb7e0a75c753383e7ef68c0e1639999db301c33/androidannotations-api-3.0.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="beb7e0a75c753383e7ef68c0e1639999db301c33"/>
+    <item
+        dex="/home/popo/AndroidStudioProjects/TbCake/app/build/intermediates/pre-dexed/debug/okhttp-2.1.0-3b1da06de155ee34c1c9219d077656745d666858.jar"
+        jar="/home/popo/AndroidStudioProjects/TbCake/app/libs/okhttp-2.1.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9b51f7d0c19f179b52beab7cb433f8ba5cf786a4"/>
+    <item
+        dex="/home/popo/AndroidStudioProjects/TbCake/app/build/intermediates/pre-dexed/debug/okio-1.0.1-0eb5479ee342f94cc1f657747dfaaede908df0a6.jar"
+        jar="/home/popo/AndroidStudioProjects/TbCake/app/libs/okio-1.0.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="39eff75ddcb987ff65888361a29f489c178429a3"/>
+    <item
+        dex="/home/popo/AndroidStudioProjects/TbCake/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.1-with-sources-a05d1760c50e6214861693db16437e54ab66943a.jar"
+        jar="/home/popo/AndroidStudioProjects/TbCake/app/libs/universal-image-loader-1.9.1-with-sources.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d2a1c7db3817af8381daa80201bc549be3e884c5"/>
+
+</pre-dex-items>
