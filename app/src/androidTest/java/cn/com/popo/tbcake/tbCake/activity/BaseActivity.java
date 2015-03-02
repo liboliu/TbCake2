@@ -14,7 +14,8 @@ public class BaseActivity extends Activity {
 	public void addTask(TbCakeFutureTask task){
 		taskList.add(task);
 	}
-	
+
+    //git test
 	@Override
 	protected void onDestroy() {
 		// TODO Auto-generated method stub
