@@ -16,6 +16,7 @@ public class BaseActivity extends Activity {
 	}
 
     //git test
+    //my git test two
 	@Override
 	protected void onDestroy() {
 		// TODO Auto-generated method stub
